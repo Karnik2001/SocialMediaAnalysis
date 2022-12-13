@@ -18,4 +18,4 @@ Steps of how to implement text mining in R to analyze sucidal thoughts.
 10. Create a bar chart of the words with the positive and negative emotions.
 
 
-
+Conclusion: The words that trigger sucidial thoughts the most would be media, health, and mental due to harassment. There are several words that have a middle and high positive correlation that lead to suicide cases including symptom, studi, depress, etc. Trust is the most frequent emotion that individuals experience with suicidal thoughts since betrayal or disloyalty can cause overwhelmness and negative thoughts. All of these thoughts and emotions that the individual experiences may convince that suicide is the "answer" to all of their problems. 
