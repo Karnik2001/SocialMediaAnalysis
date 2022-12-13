@@ -9,4 +9,6 @@ Steps of how to implement text mining in R to analyze sucidal thoughts.
 1. import all of the required libraries for text mining.
 2. Read the text file and make it readable for R to analyze.
 3. Remove unncessary grammars, spellings, numbers, extra space, and words that are irrelevant to the text.
-4. 
+4. Use a technique called text stemming to remove suffixes from words to make the word simpler and meaningful.
+5. Build a term-document matrix to create a frequency table of the words
+6. 
